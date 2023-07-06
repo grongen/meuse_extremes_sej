@@ -1,0 +1,5 @@
+
+data/samples/*
+python/matlatzinca
+python/.ipynb_checkpoints
+*.pyc

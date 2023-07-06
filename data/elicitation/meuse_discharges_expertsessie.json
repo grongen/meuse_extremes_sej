@@ -1,0 +1,1377 @@
+{
+    "version": "1.2.1",
+    "experts": {
+        "ExpA": {
+            "name": "ExpA",
+            "user_weight": NaN
+        },
+        "ExpB": {
+            "name": "ExpB",
+            "user_weight": NaN
+        },
+        "ExpC": {
+            "name": "ExpC",
+            "user_weight": NaN
+        },
+        "ExpD": {
+            "name": "ExpD",
+            "user_weight": NaN
+        },
+        "ExpE": {
+            "name": "ExpE",
+            "user_weight": NaN
+        },
+        "ExpF": {
+            "name": "ExpF",
+            "user_weight": NaN
+        },
+        "ExpG": {
+            "name": "ExpG",
+            "user_weight": NaN
+        }
+    },
+    "items": {
+        "ChaudfontaineT10": {
+            "realization": 187.9,
+            "scale": "uni",
+            "question": "T=10 discharge for the Vesdre at Chaudfontaine",
+            "quantiles": [
+                0.05,
+                0.5,
+                0.95
+            ],
+            "unit": "",
+            "bounds": [
+                0.0, NaN
+            ],
+            "overshoots": [NaN, NaN
+            ]
+        },
+        "ChoozT10": {
+            "realization": 1139.1,
+            "scale": "uni",
+            "question": "T=10 discharge for the (French) Meuse at Chooz",
+            "quantiles": [
+                0.05,
+                0.5,
+                0.95
+            ],
+            "unit": "",
+            "bounds": [
+                0.0, NaN
+            ],
+            "overshoots": [NaN, NaN
+            ]
+        },
+        "GendronT10": {
+            "realization": 337.4,
+            "scale": "uni",
+            "question": "T=10 discharge for the Lesse at Gendron",
+            "quantiles": [
+                0.05,
+                0.5,
+                0.95
+            ],
+            "unit": "",
+            "bounds": [
+                0.0, NaN
+            ],
+            "overshoots": [NaN, NaN
+            ]
+        },
+        "MartinriveT10": {
+            "realization": 290.2,
+            "scale": "uni",
+            "question": "T=10 discharge for the Ambleve at Martinrive",
+            "quantiles": [
+                0.05,
+                0.5,
+                0.95
+            ],
+            "unit": "",
+            "bounds": [
+                0.0, NaN
+            ],
+            "overshoots": [NaN, NaN
+            ]
+        },
+        "SalzinnesT10": {
+            "realization": 272.2,
+            "scale": "uni",
+            "question": "T=10 discharge for the Sambre at Salzinnes",
+            "quantiles": [
+                0.05,
+                0.5,
+                0.95
+            ],
+            "unit": "",
+            "bounds": [
+                0.0, NaN
+            ],
+            "overshoots": [NaN, NaN
+            ]
+        },
+        "TabreuxT10": {
+            "realization": 343.1,
+            "scale": "uni",
+            "question": "T=10 discharge for the Ourthe at Tabreux",
+            "quantiles": [
+                0.05,
+                0.5,
+                0.95
+            ],
+            "unit": "",
+            "bounds": [
+                0.0, NaN
+            ],
+            "overshoots": [NaN, NaN
+            ]
+        },
+        "MembreT10": {
+            "realization": 385.0,
+            "scale": "uni",
+            "question": "T=10 discharge for the Semois at Membre",
+            "quantiles": [
+                0.05,
+                0.5,
+                0.95
+            ],
+            "unit": "",
+            "bounds": [
+                0.0, NaN
+            ],
+            "overshoots": [NaN, NaN
+            ]
+        },
+        "StahT10": {
+            "realization": 125.1,
+            "scale": "uni",
+            "question": "T=10 discharge for the Roer at Stah",
+            "quantiles": [
+                0.05,
+                0.5,
+                0.95
+            ],
+            "unit": "",
+            "bounds": [
+                0.0, NaN
+            ],
+            "overshoots": [NaN, NaN
+            ]
+        },
+        "MeerssenT10": {
+            "realization": 44.0,
+            "scale": "uni",
+            "question": "T=10 discharge for the Geul at Meerssen",
+            "quantiles": [
+                0.05,
+                0.5,
+                0.95
+            ],
+            "unit": "",
+            "bounds": [
+                0.0, NaN
+            ],
+            "overshoots": [NaN, NaN
+            ]
+        },
+        "GochT10": {
+            "realization": 29.9,
+            "scale": "uni",
+            "question": "T=10 discharge for the Niers at Goch",
+            "quantiles": [
+                0.05,
+                0.5,
+                0.95
+            ],
+            "unit": "",
+            "bounds": [
+                0.0, NaN
+            ],
+            "overshoots": [NaN, NaN
+            ]
+        },
+        "ChaudfontaineT1000": {
+            "realization": NaN,
+            "scale": "uni",
+            "question": "T=1000 discharge for the Vesdre at Chaudfontaine",
+            "quantiles": [
+                0.05,
+                0.5,
+                0.95
+            ],
+            "unit": "",
+            "bounds": [
+                0.0, NaN
+            ],
+            "overshoots": [NaN, NaN
+            ]
+        },
+        "ChoozT1000": {
+            "realization": NaN,
+            "scale": "uni",
+            "question": "T=1000 discharge for the (French) Meuse at Chooz",
+            "quantiles": [
+                0.05,
+                0.5,
+                0.95
+            ],
+            "unit": "",
+            "bounds": [
+                0.0, NaN
+            ],
+            "overshoots": [NaN, NaN
+            ]
+        },
+        "GendronT1000": {
+            "realization": NaN,
+            "scale": "uni",
+            "question": "T=1000 discharge for the Lesse at Gendron",
+            "quantiles": [
+                0.05,
+                0.5,
+                0.95
+            ],
+            "unit": "",
+            "bounds": [
+                0.0, NaN
+            ],
+            "overshoots": [NaN, NaN
+            ]
+        },
+        "MartinriveT1000": {
+            "realization": NaN,
+            "scale": "uni",
+            "question": "T=1000 discharge for the Ambleve at Martinrive",
+            "quantiles": [
+                0.05,
+                0.5,
+                0.95
+            ],
+            "unit": "",
+            "bounds": [
+                0.0, NaN
+            ],
+            "overshoots": [NaN, NaN
+            ]
+        },
+        "SalzinnesT1000": {
+            "realization": NaN,
+            "scale": "uni",
+            "question": "T=1000 discharge for the Sambre at Salzinnes",
+            "quantiles": [
+                0.05,
+                0.5,
+                0.95
+            ],
+            "unit": "",
+            "bounds": [
+                0.0, NaN
+            ],
+            "overshoots": [NaN, NaN
+            ]
+        },
+        "TabreuxT1000": {
+            "realization": NaN,
+            "scale": "uni",
+            "question": "T=1000 discharge for the Ourthe at Tabreux",
+            "quantiles": [
+                0.05,
+                0.5,
+                0.95
+            ],
+            "unit": "",
+            "bounds": [
+                0.0, NaN
+            ],
+            "overshoots": [NaN, NaN
+            ]
+        },
+        "MembreT1000": {
+            "realization": NaN,
+            "scale": "uni",
+            "question": "T=1000 discharge for the Semois at Membre",
+            "quantiles": [
+                0.05,
+                0.5,
+                0.95
+            ],
+            "unit": "",
+            "bounds": [
+                0.0, NaN
+            ],
+            "overshoots": [NaN, NaN
+            ]
+        },
+        "StahT1000": {
+            "realization": NaN,
+            "scale": "uni",
+            "question": "T=1000 discharge for the Roer at Stah",
+            "quantiles": [
+                0.05,
+                0.5,
+                0.95
+            ],
+            "unit": "",
+            "bounds": [
+                0.0, NaN
+            ],
+            "overshoots": [NaN, NaN
+            ]
+        },
+        "MeerssenT1000": {
+            "realization": NaN,
+            "scale": "uni",
+            "question": "T=1000 discharge for the Geul at Meerssen",
+            "quantiles": [
+                0.05,
+                0.5,
+                0.95
+            ],
+            "unit": "",
+            "bounds": [
+                0.0, NaN
+            ],
+            "overshoots": [NaN, NaN
+            ]
+        },
+        "GochT1000": {
+            "realization": NaN,
+            "scale": "uni",
+            "question": "T=1000 discharge for the Niers at Goch",
+            "quantiles": [
+                0.05,
+                0.5,
+                0.95
+            ],
+            "unit": "",
+            "bounds": [
+                0.0, NaN
+            ],
+            "overshoots": [NaN, NaN
+            ]
+        },
+        "fBorgharenT10": {
+            "realization": NaN,
+            "scale": "uni",
+            "question": "",
+            "quantiles": [
+                0.05,
+                0.5,
+                0.95
+            ],
+            "unit": "",
+            "bounds": [
+                0.0, NaN
+            ],
+            "overshoots": [NaN, NaN
+            ]
+        },
+        "fRoermondT10": {
+            "realization": NaN,
+            "scale": "uni",
+            "question": "",
+            "quantiles": [
+                0.05,
+                0.5,
+                0.95
+            ],
+            "unit": "",
+            "bounds": [
+                0.0, NaN
+            ],
+            "overshoots": [NaN, NaN
+            ]
+        },
+        "fGennepT10": {
+            "realization": NaN,
+            "scale": "uni",
+            "question": "",
+            "quantiles": [
+                0.05,
+                0.5,
+                0.95
+            ],
+            "unit": "",
+            "bounds": [
+                0.0, NaN
+            ],
+            "overshoots": [NaN, NaN
+            ]
+        },
+        "fBorgharenT1000": {
+            "realization": NaN,
+            "scale": "uni",
+            "question": "",
+            "quantiles": [
+                0.05,
+                0.5,
+                0.95
+            ],
+            "unit": "",
+            "bounds": [
+                0.0, NaN
+            ],
+            "overshoots": [NaN, NaN
+            ]
+        },
+        "fRoermondT1000": {
+            "realization": NaN,
+            "scale": "uni",
+            "question": "",
+            "quantiles": [
+                0.05,
+                0.5,
+                0.95
+            ],
+            "unit": "",
+            "bounds": [
+                0.0, NaN
+            ],
+            "overshoots": [NaN, NaN
+            ]
+        },
+        "fGennepT1000": {
+            "realization": NaN,
+            "scale": "uni",
+            "question": "",
+            "quantiles": [
+                0.05,
+                0.5,
+                0.95
+            ],
+            "unit": "",
+            "bounds": [
+                0.0, NaN
+            ],
+            "overshoots": [NaN, NaN
+            ]
+        }
+    },
+    "assessments": {
+        "ExpA": {
+            "ChaudfontaineT10": [
+                100.0,
+                130.0,
+                160.0
+            ],
+            "ChoozT10": [
+                1000.0,
+                1200.0,
+                1500.0
+            ],
+            "GendronT10": [
+                200.0,
+                240.0,
+                300.0
+            ],
+            "MartinriveT10": [
+                190.0,
+                235.0,
+                280.0
+            ],
+            "SalzinnesT10": [
+                220.0,
+                275.0,
+                340.0
+            ],
+            "TabreuxT10": [
+                240.0,
+                300.0,
+                370.0
+            ],
+            "MembreT10": [
+                80.0,
+                100.0,
+                120.0
+            ],
+            "StahT10": [
+                250.0,
+                300.0,
+                350.0
+            ],
+            "MeerssenT10": [
+                40.0,
+                60.0,
+                80.0
+            ],
+            "GochT10": [
+                70.0,
+                90.0,
+                110.0
+            ],
+            "ChaudfontaineT1000": [
+                170.0,
+                215.0,
+                265.0
+            ],
+            "ChoozT1000": [
+                1650.0,
+                2000.0,
+                2500.0
+            ],
+            "GendronT1000": [
+                335.0,
+                400.0,
+                500.0
+            ],
+            "MartinriveT1000": [
+                320.0,
+                390.0,
+                470.0
+            ],
+            "SalzinnesT1000": [
+                370.0,
+                460.0,
+                570.0
+            ],
+            "TabreuxT1000": [
+                400.0,
+                500.0,
+                620.0
+            ],
+            "MembreT1000": [
+                135.0,
+                170.0,
+                200.0
+            ],
+            "StahT1000": [
+                420.0,
+                500.0,
+                590.0
+            ],
+            "MeerssenT1000": [
+                65.0,
+                100.0,
+                135.0
+            ],
+            "GochT1000": [
+                120.0,
+                150.0,
+                185.0
+            ],
+            "fBorgharenT10": [
+                1.1,
+                1.3,
+                1.5
+            ],
+            "fRoermondT10": [
+                1.17,
+                1.38,
+                1.6
+            ],
+            "fGennepT10": [
+                1.24,
+                1.46,
+                1.7
+            ],
+            "fBorgharenT1000": [
+                1.1,
+                1.3,
+                1.5
+            ],
+            "fRoermondT1000": [
+                1.17,
+                1.38,
+                1.6
+            ],
+            "fGennepT1000": [
+                1.24,
+                1.46,
+                1.7
+            ]
+        },
+        "ExpB": {
+            "ChaudfontaineT10": [
+                50.0,
+                70.0,
+                100.0
+            ],
+            "ChoozT10": [
+                800.0,
+                1050.0,
+                1500.0
+            ],
+            "GendronT10": [
+                100.0,
+                130.0,
+                190.0
+            ],
+            "MartinriveT10": [
+                80.0,
+                110.0,
+                160.0
+            ],
+            "SalzinnesT10": [
+                220.0,
+                290.0,
+                400.0
+            ],
+            "TabreuxT10": [
+                120.0,
+                160.0,
+                220.0
+            ],
+            "MembreT10": [
+                90.0,
+                120.0,
+                170.0
+            ],
+            "StahT10": [
+                120.0,
+                127.0,
+                140.0
+            ],
+            "MeerssenT10": [
+                27.0,
+                35.0,
+                50.0
+            ],
+            "GochT10": [
+                50.0,
+                80.0,
+                130.0
+            ],
+            "ChaudfontaineT1000": [
+                120.0,
+                180.0,
+                300.0
+            ],
+            "ChoozT1000": [
+                2000.0,
+                2350.0,
+                2500.0
+            ],
+            "GendronT1000": [
+                250.0,
+                300.0,
+                350.0
+            ],
+            "MartinriveT1000": [
+                200.0,
+                280.0,
+                400.0
+            ],
+            "SalzinnesT1000": [
+                550.0,
+                700.0,
+                850.0
+            ],
+            "TabreuxT1000": [
+                300.0,
+                400.0,
+                550.0
+            ],
+            "MembreT1000": [
+                200.0,
+                300.0,
+                400.0
+            ],
+            "StahT1000": [
+                270.0,
+                350.0,
+                400.0
+            ],
+            "MeerssenT1000": [
+                90.0,
+                100.0,
+                130.0
+            ],
+            "GochT1000": [
+                140.0,
+                210.0,
+                270.0
+            ],
+            "fBorgharenT10": [
+                0.72,
+                0.9,
+                1.3
+            ],
+            "fRoermondT10": [
+                0.67,
+                0.84,
+                1.2
+            ],
+            "fGennepT10": [
+                0.62,
+                0.78,
+                1.0
+            ],
+            "fBorgharenT1000": [
+                0.72,
+                0.9,
+                1.3
+            ],
+            "fRoermondT1000": [
+                0.67,
+                0.84,
+                1.2
+            ],
+            "fGennepT1000": [
+                0.62,
+                0.78,
+                1.0
+            ]
+        },
+        "ExpC": {
+            "ChaudfontaineT10": [
+                40.0,
+                55.0,
+                95.0
+            ],
+            "ChoozT10": [
+                280.0,
+                380.0,
+                660.0
+            ],
+            "GendronT10": [
+                35.0,
+                45.0,
+                75.0
+            ],
+            "MartinriveT10": [
+                55.0,
+                75.0,
+                125.0
+            ],
+            "SalzinnesT10": [
+                50.0,
+                80.0,
+                135.0
+            ],
+            "TabreuxT10": [
+                40.0,
+                60.0,
+                110.0
+            ],
+            "MembreT10": [
+                35.0,
+                50.0,
+                88.0
+            ],
+            "StahT10": [
+                70.0,
+                120.0,
+                220.0
+            ],
+            "MeerssenT10": [
+                15.0,
+                20.0,
+                35.0
+            ],
+            "GochT10": [
+                20.0,
+                35.0,
+                65.0
+            ],
+            "ChaudfontaineT1000": [
+                90.0,
+                150.0,
+                300.0
+            ],
+            "ChoozT1000": [
+                430.0,
+                600.0,
+                1000.0
+            ],
+            "GendronT1000": [
+                74.0,
+                104.0,
+                224.0
+            ],
+            "MartinriveT1000": [
+                75.0,
+                125.0,
+                280.0
+            ],
+            "SalzinnesT1000": [
+                70.0,
+                134.0,
+                268.0
+            ],
+            "TabreuxT1000": [
+                101.0,
+                152.0,
+                304.0
+            ],
+            "MembreT1000": [
+                57.0,
+                80.0,
+                148.0
+            ],
+            "StahT1000": [
+                220.0,
+                366.0,
+                660.0
+            ],
+            "MeerssenT1000": [
+                22.0,
+                33.0,
+                83.0
+            ],
+            "GochT1000": [
+                33.0,
+                44.0,
+                143.0
+            ],
+            "fBorgharenT10": [
+                0.9,
+                1.0,
+                1.1
+            ],
+            "fRoermondT10": [
+                0.95,
+                1.05,
+                1.15
+            ],
+            "fGennepT10": [
+                0.9,
+                1.0,
+                1.1
+            ],
+            "fBorgharenT1000": [
+                0.9,
+                1.0,
+                1.1
+            ],
+            "fRoermondT1000": [
+                0.95,
+                1.05,
+                1.15
+            ],
+            "fGennepT1000": [
+                0.9,
+                1.0,
+                1.1
+            ]
+        },
+        "ExpD": {
+            "ChaudfontaineT10": [
+                100.0,
+                200.0,
+                400.0
+            ],
+            "ChoozT10": [
+                800.0,
+                1300.0,
+                1800.0
+            ],
+            "GendronT10": [
+                150.0,
+                250.0,
+                500.0
+            ],
+            "MartinriveT10": [
+                150.0,
+                250.0,
+                500.0
+            ],
+            "SalzinnesT10": [
+                250.0,
+                400.0,
+                800.0
+            ],
+            "TabreuxT10": [
+                200.0,
+                350.0,
+                600.0
+            ],
+            "MembreT10": [
+                150.0,
+                250.0,
+                500.0
+            ],
+            "StahT10": [
+                60.0,
+                100.0,
+                200.0
+            ],
+            "MeerssenT10": [
+                30.0,
+                50.0,
+                100.0
+            ],
+            "GochT10": [
+                80.0,
+                150.0,
+                350.0
+            ],
+            "ChaudfontaineT1000": [
+                600.0,
+                800.0,
+                1200.0
+            ],
+            "ChoozT1000": [
+                1500.0,
+                2000.0,
+                3000.0
+            ],
+            "GendronT1000": [
+                600.0,
+                1000.0,
+                1500.0
+            ],
+            "MartinriveT1000": [
+                600.0,
+                1000.0,
+                1500.0
+            ],
+            "SalzinnesT1000": [
+                600.0,
+                1000.0,
+                1500.0
+            ],
+            "TabreuxT1000": [
+                600.0,
+                1000.0,
+                1500.0
+            ],
+            "MembreT1000": [
+                600.0,
+                800.0,
+                1200.0
+            ],
+            "StahT1000": [
+                200.0,
+                500.0,
+                800.0
+            ],
+            "MeerssenT1000": [
+                200.0,
+                350.0,
+                600.0
+            ],
+            "GochT1000": [
+                400.0,
+                550.0,
+                800.0
+            ],
+            "fBorgharenT10": [
+                0.6,
+                0.8,
+                1.1
+            ],
+            "fRoermondT10": [
+                0.6,
+                0.8,
+                1.1
+            ],
+            "fGennepT10": [
+                0.6,
+                0.8,
+                1.1
+            ],
+            "fBorgharenT1000": [
+                0.6,
+                0.8,
+                1.1
+            ],
+            "fRoermondT1000": [
+                0.6,
+                0.8,
+                1.1
+            ],
+            "fGennepT1000": [
+                0.6,
+                0.8,
+                1.1
+            ]
+        },
+        "ExpE": {
+            "ChaudfontaineT10": [
+                150.0,
+                250.0,
+                350.0
+            ],
+            "ChoozT10": [
+                750.0,
+                1000.0,
+                1250.0
+            ],
+            "GendronT10": [
+                200.0,
+                300.0,
+                400.0
+            ],
+            "MartinriveT10": [
+                150.0,
+                250.0,
+                300.0
+            ],
+            "SalzinnesT10": [
+                200.0,
+                300.0,
+                400.0
+            ],
+            "TabreuxT10": [
+                350.0,
+                500.0,
+                600.0
+            ],
+            "MembreT10": [
+                150.0,
+                250.0,
+                300.0
+            ],
+            "StahT10": [
+                75.0,
+                100.0,
+                150.0
+            ],
+            "MeerssenT10": [
+                35.0,
+                40.0,
+                60.0
+            ],
+            "GochT10": [
+                30.0,
+                35.0,
+                50.0
+            ],
+            "ChaudfontaineT1000": [
+                300.0,
+                500.0,
+                700.0
+            ],
+            "ChoozT1000": [
+                1500.0,
+                2000.0,
+                2500.0
+            ],
+            "GendronT1000": [
+                400.0,
+                600.0,
+                800.0
+            ],
+            "MartinriveT1000": [
+                300.0,
+                500.0,
+                600.0
+            ],
+            "SalzinnesT1000": [
+                400.0,
+                600.0,
+                800.0
+            ],
+            "TabreuxT1000": [
+                700.0,
+                1000.0,
+                1200.0
+            ],
+            "MembreT1000": [
+                300.0,
+                500.0,
+                600.0
+            ],
+            "StahT1000": [
+                150.0,
+                200.0,
+                300.0
+            ],
+            "MeerssenT1000": [
+                70.0,
+                80.0,
+                120.0
+            ],
+            "GochT1000": [
+                60.0,
+                70.0,
+                100.0
+            ],
+            "fBorgharenT10": [
+                0.5,
+                0.6,
+                0.75
+            ],
+            "fRoermondT10": [
+                0.4,
+                0.55,
+                0.8
+            ],
+            "fGennepT10": [
+                0.4,
+                0.5,
+                0.7
+            ],
+            "fBorgharenT1000": [
+                0.5,
+                0.6,
+                0.75
+            ],
+            "fRoermondT1000": [
+                0.4,
+                0.55,
+                0.8
+            ],
+            "fGennepT1000": [
+                0.4,
+                0.5,
+                0.7
+            ]
+        },
+        "ExpF": {
+            "ChaudfontaineT10": [
+                100.0,
+                150.0,
+                200.0
+            ],
+            "ChoozT10": [
+                450.0,
+                650.0,
+                900.0
+            ],
+            "GendronT10": [
+                150.0,
+                210.0,
+                290.0
+            ],
+            "MartinriveT10": [
+                110.0,
+                150.0,
+                220.0
+            ],
+            "SalzinnesT10": [
+                260.0,
+                390.0,
+                520.0
+            ],
+            "TabreuxT10": [
+                90.0,
+                125.0,
+                210.0
+            ],
+            "MembreT10": [
+                100.0,
+                140.0,
+                210.0
+            ],
+            "StahT10": [
+                110.0,
+                160.0,
+                220.0
+            ],
+            "MeerssenT10": [
+                30.0,
+                40.0,
+                50.0
+            ],
+            "GochT10": [
+                60.0,
+                90.0,
+                120.0
+            ],
+            "ChaudfontaineT1000": [
+                200.0,
+                300.0,
+                400.0
+            ],
+            "ChoozT1000": [
+                900.0,
+                1300.0,
+                1800.0
+            ],
+            "GendronT1000": [
+                300.0,
+                420.0,
+                580.0
+            ],
+            "MartinriveT1000": [
+                220.0,
+                300.0,
+                440.0
+            ],
+            "SalzinnesT1000": [
+                520.0,
+                780.0,
+                1040.0
+            ],
+            "TabreuxT1000": [
+                200.0,
+                250.0,
+                420.0
+            ],
+            "MembreT1000": [
+                200.0,
+                280.0,
+                420.0
+            ],
+            "StahT1000": [
+                220.0,
+                320.0,
+                440.0
+            ],
+            "MeerssenT1000": [
+                60.0,
+                80.0,
+                100.0
+            ],
+            "GochT1000": [
+                120.0,
+                180.0,
+                240.0
+            ],
+            "fBorgharenT10": [
+                0.7,
+                0.85,
+                1.0
+            ],
+            "fRoermondT10": [
+                0.8,
+                0.95,
+                1.2
+            ],
+            "fGennepT10": [
+                0.85,
+                1.05,
+                1.3
+            ],
+            "fBorgharenT1000": [
+                0.8,
+                1.0,
+                1.1
+            ],
+            "fRoermondT1000": [
+                1.0,
+                1.1,
+                1.3
+            ],
+            "fGennepT1000": [
+                1.1,
+                1.2,
+                1.4
+            ]
+        },
+        "ExpG": {
+            "ChaudfontaineT10": [
+                120.0,
+                180.0,
+                230.0
+            ],
+            "ChoozT10": [
+                600.0,
+                1000.0,
+                1700.0
+            ],
+            "GendronT10": [
+                80.0,
+                150.0,
+                250.0
+            ],
+            "MartinriveT10": [
+                230.0,
+                260.0,
+                300.0
+            ],
+            "SalzinnesT10": [
+                220.0,
+                320.0,
+                500.0
+            ],
+            "TabreuxT10": [
+                200.0,
+                250.0,
+                275.0
+            ],
+            "MembreT10": [
+                180.0,
+                250.0,
+                340.0
+            ],
+            "StahT10": [
+                300.0,
+                350.0,
+                400.0
+            ],
+            "MeerssenT10": [
+                31.0,
+                40.0,
+                57.0
+            ],
+            "GochT10": [
+                85.0,
+                110.0,
+                150.0
+            ],
+            "ChaudfontaineT1000": [
+                200.0,
+                350.0,
+                450.0
+            ],
+            "ChoozT1000": [
+                1200.0,
+                1900.0,
+                3200.0
+            ],
+            "GendronT1000": [
+                150.0,
+                250.0,
+                400.0
+            ],
+            "MartinriveT1000": [
+                450.0,
+                550.0,
+                620.0
+            ],
+            "SalzinnesT1000": [
+                420.0,
+                600.0,
+                940.0
+            ],
+            "TabreuxT1000": [
+                400.0,
+                550.0,
+                600.0
+            ],
+            "MembreT1000": [
+                340.0,
+                440.0,
+                600.0
+            ],
+            "StahT1000": [
+                450.0,
+                530.0,
+                600.0
+            ],
+            "MeerssenT1000": [
+                60.0,
+                75.0,
+                110.0
+            ],
+            "GochT1000": [
+                180.0,
+                230.0,
+                330.0
+            ],
+            "fBorgharenT10": [
+                0.3,
+                0.65,
+                0.8
+            ],
+            "fRoermondT10": [
+                0.3,
+                0.65,
+                0.85
+            ],
+            "fGennepT10": [
+                0.35,
+                0.7,
+                0.85
+            ],
+            "fBorgharenT1000": [
+                0.3,
+                0.65,
+                0.8
+            ],
+            "fRoermondT1000": [
+                0.3,
+                0.65,
+                0.85
+            ],
+            "fGennepT1000": [
+                0.35,
+                0.7,
+                0.85
+            ]
+        }
+    }
+}

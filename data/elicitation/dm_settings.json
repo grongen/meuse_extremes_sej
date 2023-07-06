@@ -1,0 +1,26 @@
+{
+    "globalnonopt_settings": {
+        "id": "GL",
+        "name": "Global no opt.",
+        "weight": "Global",
+        "overshoot": 0.1,
+        "optimisation": false,
+        "alpha": 0.0,
+        "robustness": false,
+        "calpower": 1.0,
+        "distribution": "Metalog",
+        "calibration_method": "Likelihood Ratio"
+    },
+    "equal_settings": {
+        "id": "EQ",
+        "name": "Equal",
+        "weight": "Equal",
+        "optimisation": false,
+        "overshoot": 0.1,
+        "alpha": 0.0,
+        "robustness": false,
+        "calpower": 1.0,
+        "distribution": "Metalog",
+        "calibration_method": "Likelihood Ratio"
+    }
+}
